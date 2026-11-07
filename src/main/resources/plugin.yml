@@ -13,9 +13,9 @@ main: me.figgnus.slimefunaddon.BreweryMenu
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
 website: https://github.com/Figgnus/BreweryMenu
 
-## This value is automatically replaced by the version specified in your pom.xml file.
+## This value is automatically replaced by the version specified in gradle.properties.
 ## Do not change this.
-version: ${project.version}
+version: ${version}
 
 ## This is the minimum minecraft version required to run your plugin.
 api-version: 1.14
